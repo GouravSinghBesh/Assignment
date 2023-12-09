@@ -1,0 +1,48 @@
+.employee-card {
+    /* position: absolute; */
+    /* top: 273px;
+    left: 631px; */
+    width: 298px;
+    height: 180px;
+    background-color:#5E5E5E82;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.employee-card p{
+    padding-top: 15px;
+    color: rgba(255, 255, 255, 0.435);
+}
+.employee-card :nth-child(1) span{
+    color: white
+}
+.employee-card :nth-child(2) span{
+    color: white
+}
+.employee-card :nth-child(3) span{
+        color: rgb(228, 171, 64)
+}
+.employee-card :nth-child(4) span{
+    color: green
+}
+/* .employee-card :nth-child(1) span{
+    
+    height:28px;
+    width: 28px;
+    top: 4px;
+    
+    display: block;
+    text-align: center;
+    border-radius: 12px;
+    border: 1px solid black;
+    background-color: #79757582;
+} */
+/* .card-no{
+    
+    height:28px;
+    width: 28px;
+    
+    text-align: center;
+    border-radius: 12px;
+    border: 1px solid black;
+    background-color: #79757582;
+} */
